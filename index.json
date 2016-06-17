@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Baran Kaynak",
-    "label": "Software Specialist at Sakarya University",
+    "label": "",
     "picture": "http://fotograf.sabis.sakarya.edu.tr/Fotograf/edc1b6099551f8f1deb8947aa77e1175",
     "email": "baran@kaynak.io",
     "phone": "",
@@ -14,7 +14,18 @@
       "countryCode": "TR",
       "region": ""
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "barankaynak",
+        "url": "https://twitter.com/barankaynak"
+      },
+      {
+        "network": "Linkedin",
+        "username": "",
+        "url": "https://tr.linkedin.com/in/barankaynak"
+      }
+    ]
   },
   "work": [
     {
@@ -22,7 +33,6 @@
       "position": "Academician",
       "website": "http://kaynak.sakarya.edu.tr",
       "startDate": "2013-10-01",
-      "endDate": "",
       "summary": "",
       "highlights": []
     },
@@ -31,12 +41,11 @@
       "position": "Software Developer",
       "website": "",
       "startDate": "2012-01-01",
-      "endDate": "",
       "summary": "SABİS (Campus Automation Project) C#, PHP, MSSQL",
       "highlights": []
     },
     {
-      "company": "Glovis Turkey ( Hyundai Motor Company )",
+      "company": "Glovis Turkey (Hyundai Motor Company )",
       "position": "Summer Trainee",
       "website": "",
       "startDate": "2011-08-01",
@@ -86,15 +95,6 @@
     {
       "institution": "Sakarya Üniversitesi",
       "area": "",
-      "studyType": "Doctor of Philosophy (Ph.D.)",
-      "startDate": "2013-01-01",
-      "endDate": "2015-01-01",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "Sakarya Üniversitesi",
-      "area": "",
       "studyType": "Bachelor's degree",
       "startDate": "2007-01-01",
       "endDate": "2011-01-01",
@@ -107,6 +107,14 @@
       "studyType": "Master's degree",
       "startDate": "2007-01-01",
       "endDate": "2013-01-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Sakarya Üniversitesi",
+      "area": "",
+      "studyType": "Doctor of Philosophy (Ph.D.)",
+      "startDate": "2013-01-01",
       "gpa": "",
       "courses": []
     }
