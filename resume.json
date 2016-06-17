@@ -5,7 +5,7 @@
     "picture": "http://fotograf.sabis.sakarya.edu.tr/Fotograf/edc1b6099551f8f1deb8947aa77e1175",
     "email": "baran@kaynak.io",
     "phone": "",
-    "website": "http://kaynak.io",
+    "website": "https://kaynak.io",
     "summary": "Industrial Engineer & A curious programmer",
     "location": {
       "address": "",
@@ -22,7 +22,7 @@
       },
       {
         "network": "Linkedin",
-        "username": "",
+        "username": "barankaynak",
         "url": "https://tr.linkedin.com/in/barankaynak"
       }
     ]
