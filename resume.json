@@ -1,47 +1,113 @@
 {
   "basics": {
     "name": "Baran Kaynak",
-    "label": "Programmer",
+    "label": "Software Specialist at Sakarya University",
     "picture": "http://fotograf.sabis.sakarya.edu.tr/Fotograf/edc1b6099551f8f1deb8947aa77e1175",
     "email": "baran@kaynak.io",
     "phone": "",
-    "website": "https://kaynak.io",
-    "summary": "",
+    "website": "http://kaynak.io",
+    "summary": "Industrial Engineer & A curious programmer",
     "location": {
-      "address": "Sakarya Üniversitesi",
+      "address": "",
       "postalCode": "",
-      "city": "Sakarya",
+      "city": "",
       "countryCode": "TR",
       "region": ""
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "barankaynak",
-        "url": "https://twitter.com/barankaynak"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
       "company": "Sakarya University",
-      "position": "",
+      "position": "Academician",
       "website": "http://kaynak.sakarya.edu.tr",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Sakarya University Information System",
+      "startDate": "2013-10-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Sakarya University",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2012-01-01",
+      "endDate": "",
+      "summary": "SABİS (Campus Automation Project) C#, PHP, MSSQL",
+      "highlights": []
+    },
+    {
+      "company": "Glovis Turkey ( Hyundai Motor Company )",
+      "position": "Summer Trainee",
+      "website": "",
+      "startDate": "2011-08-01",
+      "endDate": "2011-09-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Sakarya University",
+      "position": "UZEM",
+      "website": "",
+      "startDate": "2008-01-01",
+      "endDate": "2011-05-01",
+      "summary": "Learning Management SystemC#, MSSQL",
+      "highlights": []
+    },
+    {
+      "company": "Barış Görsel Tanıtım Ltd. Şti.",
+      "position": "IT Responsible",
+      "website": "",
+      "startDate": "2005-05-01",
+      "endDate": "2010-09-01",
+      "summary": "System Management, Remote Support",
       "highlights": []
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Sakarya University",
-      "area": "Industrial Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2007-09-01",
-      "endDate": "2011-06-01",
-      "gpa": "3.08",
+      "institution": "Aydın Adnan Menderes Anadolu Lisesi",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "2002-01-01",
+      "endDate": "2005-01-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Umeå universitet / Umeå University",
+      "area": "",
+      "studyType": "Bachelor's degree",
+      "startDate": "2009-01-01",
+      "endDate": "2010-01-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Sakarya Üniversitesi",
+      "area": "",
+      "studyType": "Doctor of Philosophy (Ph.D.)",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Sakarya Üniversitesi",
+      "area": "",
+      "studyType": "Bachelor's degree",
+      "startDate": "2007-01-01",
+      "endDate": "2011-01-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Sakarya Üniversitesi",
+      "area": "",
+      "studyType": "Master's degree",
+      "startDate": "2007-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "",
       "courses": []
     }
   ],
@@ -49,18 +115,188 @@
   "publications": [],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
+      "name": ".NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Entity Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VMware Workstation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Basic",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VMware ESX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Eclipse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "T-SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OOP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Studio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VoIP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Genetic Algorithms",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Artificial Neural Networks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ESXi",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CodeIgniter",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Algorithms",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arduino",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "pfSense",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
     {
       "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Turkish",
       "fluency": ""
     }
   ],
