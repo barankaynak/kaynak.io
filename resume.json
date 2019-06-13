@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "basics": {
     "name": "Baran Kaynak",
     "label": "",
@@ -120,8 +121,50 @@
     }
   ],
   "awards": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "A software tool development study for solar energy potential analysis",
+      "publisher": "Energy and Buildings",
+      "releaseDate": "2018-03-01",
+      "website": "https://doi.org/10.1016/j.enbuild.2017.12.033.",
+	  "authors": [
+		    "Sümeyye Kaynak",
+		    "Baran Kaynak",
+            "Ahmet Özmen"
+        ],
+	  "abstract": "Analysis of solar radiation on buildings at the urban or individual scale has an important share in the formation of a sustainable environment. The accuracy of solar radiation analysis in buildings depends on the holistic analysis of the buildings and the efficiency of the model. Traditional solar radiation analysis approaches use some technologies such as LIDAR, ALS, aerial photographs, satellite images, and MLS. These technologies are expensive and not suitable for non-existing structures. In this paper, a novel approach is presented to evaluate the potential direct and diffuse solar radiation aggregated on 3D structures which can be either in planning stage or completed at the urban or individual scale. During the study, Angstrom–Prescot model is validated for the target region, and it is used for estimating the global solar radiation potential at specific points. Dynamical changes of shadow areas on building surfaces affect solar energy estimations, different algorithms are required for precise radiation analyzes on 3D buildings. In the proposed approach, finite element method, back-face detection and ray-tracing algorithms are utilized to obtain more precise results. Thus, real-time shadow analysis and analysis of the desired sensitivity and time scale can be obtained using the proposed approach. In the last phase of the study, a nearby site with various building layout scenarios is designated as test bed. Each scenario is analyzed separately using the proposed approach and the results are presented in the paper. The proposed work-model creates an ideal tool for urban planners, architects, civil engineers and energy investors."
+    },
+	{
+      "name": "Adaptive Neuro-Fuzzy Inference System in Predicting the Success of Students in a Particular Course",
+      "publisher": "International Journal of Computer Theory and Engineering",
+      "releaseDate": "2015-02-01",
+      "website": "http://www.ijcte.org/vol7/926-AC0016.pdf",
+	  "authors": [
+		    "Sümeyye Kaynak",
+		    "Hayrettin Evirgen",
+			"Baran Kaynak"            
+        ],
+	  "abstract": "Students are required to choose a certain number of elective courses for next semester. One of the factors influencing the course selection of the students is their grade in the course. The grades that students will get from the course at the end of the semester depend on many factors and includes uncertainties. The student's gpa, gender and grades of related courses are the parameters that can be obtained to eliminate this uncertainty. However, the parameters such as student’s psychological state, etc. are difficult to obtain, and will eventually have a large impact on his/her grade at the end of the semester. Estimate implementation depends on many factors and the degree that these factors affect the estimation is uncertain. In this study, using adaptive neuro-fuzzy model, the estimation of the score range that the student will complete the courses s/he requests is analysed and an average result of ±0.36 points is found."
+    },
+	{
+      "name": "Student Consultancy Service: Prediction of Course Grades in Course Selection Phases Using Artificial Intelligence Techniques",
+      "publisher": "Journal of Computer and Education Research",
+      "releaseDate": "2018-12-03",
+      "website": "http://www.ijcte.org/vol7/926-AC0016.pdf",
+	  "authors": [
+		    "Sümeyye Kaynak",
+		    "Baran Kaynak",
+			"Hayrettin Evirgen"            
+        ],
+	  "abstract": "Universities offer technical elective courses to allow students to improve themselves in various parts of their majors. Each semester, the students make a decision regarding these technical electives, and the most common expectations students have in this context include, getting education at a better school, getting a better job, and getting higher grades with a view to securing admission into more advanced degree programs. Electing a course on the basis of the interests and skills of the student will naturally translate into achievement. Advisors, in this context, play a major role. Yet, the substantial workload advisors have already assumed prevent them dedicating enough time for exploring the interests and skills of the students, and hence hinder the development of the required relationship between students and their advisors. This study attempts to estimate the achievement level a student intends to elect, on the basis of graduate data received from the database of students of Sakarya University, Faculty of Computer and Information Sciences, and led to the development of a decision-support system. The application used ANFIS and artificial neural network methods among the artificial intelligence techniques, alongside the linear regression model as the mathematical model, whereupon the performance of the methods were compared over the application. In conclusion, it was observed that artificial intelligence techniques provided more relevant results compared to mathematical models, and that, among the artificial intelligence techniques feed forward backpropagation neural network model offered a lower standard deviation compared to ANFIS model."
+    }
+  ],
   "skills": [
+	{
+      "name": "System Administration",
+      "level": "",
+      "keywords": []
+    },
     {
       "name": ".NET",
       "level": "",
@@ -193,22 +236,7 @@
       "keywords": []
     },
     {
-      "name": "Eclipse",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "T-SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Matlab",
       "level": "",
       "keywords": []
     },
